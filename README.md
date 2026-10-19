@@ -4,13 +4,15 @@
 
 ## 下載
 
+下方為完整的 APK 直接下載網址。也可開啟 [Android 5 目錄](https://github.com/alextlife24/recovery-version-android/tree/main/apks/android5) 或 [Android 16 目錄](https://github.com/alextlife24/recovery-version-android/tree/main/apks/android16) 選擇檔案。
+
 | 軟體 | Android 5／P01Z | Android 16 相容版 |
 |---|---|---|
-| 電子詩歌 | [下載 10.1 MB](apks/android5/Hymns-P01Z-Android5.apk?raw=true) | [下載 10.1 MB](apks/android16/Hymns-Classic-Compat-3.apk?raw=true) |
-| 恢復本聖經 | [下載 18.1 MB](apks/android5/RecoveryBible-P01Z-Android5.apk?raw=true) | [下載 18.1 MB](apks/android16/RecoveryBible-Compat.apk?raw=true) |
-| 新舊約生命讀經 | [下載 24.6 MB](apks/android5/LifeStudy-P01Z-Android5.apk?raw=true) | [下載 24.6 MB](apks/android16/LifeStudy-Compat.apk?raw=true) |
-| 生命讀經有聲 | [下載 3.8 MB](apks/android5/LifeStudyAudio-P01Z-Android5.apk?raw=true) | [下載 2.5 MB](apks/android16/LifeStudyAudio-Compat.apk?raw=true) |
-| 倪柝聲文集 | [下載 24.4 MB](apks/android5/WatchmanNee-Android5.apk?raw=true) | [下載 24.4 MB](apks/android16/WatchmanNee-Android16.apk?raw=true) |
+| 電子詩歌 | [下載 10.1 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android5/Hymns-P01Z-Android5.apk) | [下載 10.1 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android16/Hymns-Classic-Compat-3.apk) |
+| 恢復本聖經 | [下載 18.1 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android5/RecoveryBible-P01Z-Android5.apk) | [下載 18.1 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android16/RecoveryBible-Compat.apk) |
+| 新舊約生命讀經 | [下載 24.6 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android5/LifeStudy-P01Z-Android5.apk) | [下載 24.6 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android16/LifeStudy-Compat.apk) |
+| 生命讀經有聲 | [下載 3.8 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android5/LifeStudyAudio-P01Z-Android5.apk) | [下載 2.5 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android16/LifeStudyAudio-Compat.apk) |
+| 倪柝聲文集 | [下載 24.4 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android5/WatchmanNee-Android5.apk) | [下載 24.4 MB](https://raw.githubusercontent.com/alextlife24/recovery-version-android/main/apks/android16/WatchmanNee-Android16.apk) |
 
 Android 5 目錄為最低 Android 5.0（API 21）版本，供 ASUS P01Z／Android 5.0.2 使用；Android 16 目錄沿用最低 Android 8（API 26）的既有相容版。兩類 APK 的 targetSdk 都是 28；「Android 16 相容版」並不表示 targetSdk 36 或符合 Google Play 最新發行要求。
 
@@ -30,8 +32,8 @@ Android 5 目錄為最低 Android 5.0（API 21）版本，供 ASUS P01Z／Androi
 
 ## 檔案核對
 
-- [版本與套件清單](docs/versions.md)
-- [機器可讀清單](catalog.json)
-- [SHA-256 校驗碼](SHA256SUMS.txt)
+- [版本與套件清單](https://github.com/alextlife24/recovery-version-android/blob/main/docs/versions.md)
+- [機器可讀清單](https://github.com/alextlife24/recovery-version-android/blob/main/catalog.json)
+- [SHA-256 校驗碼](https://github.com/alextlife24/recovery-version-android/blob/main/SHA256SUMS.txt)
 
 檔名沿用先前交付名稱，因此 Android 16 目錄中的部分檔名仍以 `Compat` 命名。僅收錄 APK 與下載說明，不包含簽署私鑰或來源備份包。
