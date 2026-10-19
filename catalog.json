@@ -1,0 +1,207 @@
+{
+  "snapshot_date": "2026-10-19",
+  "apk_count": 10,
+  "target_sdk": 28,
+  "files": [
+    {
+      "file": "Hymns-P01Z-Android5.apk",
+      "bytes": 10621159,
+      "sha256": "3ac7024f6835c2eb52b7d0b7b4eb05ad1f323bbc9cbd30ce5481c902cfc3260d",
+      "package": "org.alext.hymnsmodern",
+      "version_name": "1.2.0-p01z.1",
+      "version_code": "30001",
+      "min_sdk": "21",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "電子詩歌",
+      "path": "apks/android5/Hymns-P01Z-Android5.apk",
+      "variant": "android5",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "Hymns-Classic-Compat-3.apk",
+      "bytes": 10621159,
+      "sha256": "a6cea432eb3220b7ebed7fd2226027ee5f603a1a2abe4d8e07fa3756374cf580",
+      "package": "org.alext.hymnsmodern",
+      "version_name": "1.2.0-compat.3",
+      "version_code": "20003",
+      "min_sdk": "26",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "電子詩歌",
+      "path": "apks/android16/Hymns-Classic-Compat-3.apk",
+      "variant": "android16",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "RecoveryBible-P01Z-Android5.apk",
+      "bytes": 18953517,
+      "sha256": "e421ac9e4899e21710c896239d891894419ff6b9c9c845264d6effc81f25f89e",
+      "package": "org.alext.bibleclassic",
+      "version_name": "1.0.3-p01z.1",
+      "version_code": "30001",
+      "min_sdk": "21",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "恢復本聖經",
+      "path": "apks/android5/RecoveryBible-P01Z-Android5.apk",
+      "variant": "android5",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "RecoveryBible-Compat.apk",
+      "bytes": 18953667,
+      "sha256": "45cf07e10027e4f5210b348af074df500373aa1c8d418b83cc810809ada1dd11",
+      "package": "org.alext.bibleclassic",
+      "version_name": "1.0.3-compat.1",
+      "version_code": "20001",
+      "min_sdk": "26",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "恢復本聖經",
+      "path": "apks/android16/RecoveryBible-Compat.apk",
+      "variant": "android16",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "LifeStudy-P01Z-Android5.apk",
+      "bytes": 25824688,
+      "sha256": "e2bdc976e08cb0b9d5ba12ebeba28fc8d383d5317e85398417c93664f2cac5a8",
+      "package": "org.alext.lifestudyclassic",
+      "version_name": "1.0.0-p01z.1",
+      "version_code": "30001",
+      "min_sdk": "21",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "新舊約生命讀經",
+      "path": "apks/android5/LifeStudy-P01Z-Android5.apk",
+      "variant": "android5",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "LifeStudy-Compat.apk",
+      "bytes": 25824688,
+      "sha256": "4c7ed6f4b80b21c937853a5f2d306f5b65ae522108c31e8fee59ada217b7bba0",
+      "package": "org.alext.lifestudyclassic",
+      "version_name": "1.0.0-compat.1",
+      "version_code": "20001",
+      "min_sdk": "26",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "新舊約生命讀經",
+      "path": "apks/android16/LifeStudy-Compat.apk",
+      "variant": "android16",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "LifeStudyAudio-P01Z-Android5.apk",
+      "bytes": 3932603,
+      "sha256": "4b0be075dfdbd991e43676a93500a8d338ad9e9e37cbd5be56ea177ac5433d63",
+      "package": "org.alext.lifestudyaudioclassic",
+      "version_name": "2.0.0-p01z.1",
+      "version_code": "30001",
+      "min_sdk": "21",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "生命讀經有聲",
+      "path": "apks/android5/LifeStudyAudio-P01Z-Android5.apk",
+      "variant": "android5",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "LifeStudyAudio-Compat.apk",
+      "bytes": 2621795,
+      "sha256": "30cccbc056986156a3d5a474e06fdc8c64c2f1fa476c0a644b7dd059000374d9",
+      "package": "org.alext.lifestudyaudioclassic",
+      "version_name": "2.0.0-compat.1",
+      "version_code": "20001",
+      "min_sdk": "26",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "生命讀經有聲",
+      "path": "apks/android16/LifeStudyAudio-Compat.apk",
+      "variant": "android16",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "WatchmanNee-Android5.apk",
+      "bytes": 25619984,
+      "sha256": "0d7e51b55c7fd2a35ff4d5f911792ed87be21cde84fed8abd80f65774a1a1367",
+      "package": "org.alext.neeclassic",
+      "version_name": "1.2.2-android5.1",
+      "version_code": "40001",
+      "min_sdk": "21",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "倪柝聲文集",
+      "path": "apks/android5/WatchmanNee-Android5.apk",
+      "variant": "android5",
+      "status": "existing compatibility build; no new runtime testing during repository import"
+    },
+    {
+      "file": "WatchmanNee-Android16.apk",
+      "bytes": 25620068,
+      "sha256": "dd560bd6ef41480ba064216cd2e43fe2c904beb4c8ed448aec0015210e9e99f5",
+      "package": "org.alext.neeclassic",
+      "version_name": "1.2.2-android16.2",
+      "version_code": "40003",
+      "min_sdk": "26",
+      "target_sdk": "28",
+      "native_abis": [],
+      "signature_schemes": {
+        "v1": true,
+        "v2": true,
+        "v3": true
+      },
+      "app": "倪柝聲文集",
+      "path": "apks/android16/WatchmanNee-Android16.apk",
+      "variant": "android16",
+      "status": "candidate: real-device settings crash requires confirmation; emulator UI regression blocked by system ANR"
+    }
+  ]
+}
