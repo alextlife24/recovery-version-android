@@ -13,4 +13,4 @@
 | 生命讀經有聲 | android5 | `2.0.0-p01z.1` | 30001 | 21 | 28 | `org.alext.lifestudyaudioclassic` |
 | 生命讀經有聲 | android16 | `2.0.0-compat.1` | 20001 | 26 | 28 | `org.alext.lifestudyaudioclassic` |
 | 倪柝聲文集 | android5 | `1.2.2-android5.1` | 40001 | 21 | 28 | `org.alext.neeclassic` |
-| 倪柝聲文集 | android16 | `1.2.2-android16.2` | 40003 | 26 | 28 | `org.alext.neeclassic` |
+| 倪柝聲文集 | android16 | `1.2.2-android16.3` | 40004 | 26 | 28 | `org.alext.neeclassic` |

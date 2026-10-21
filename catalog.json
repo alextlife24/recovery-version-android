@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-10-19",
+  "snapshot_date": "2026-10-21",
   "apk_count": 10,
   "target_sdk": 28,
   "files": [
@@ -186,10 +186,10 @@
     {
       "file": "WatchmanNee-Android16.apk",
       "bytes": 25620068,
-      "sha256": "dd560bd6ef41480ba064216cd2e43fe2c904beb4c8ed448aec0015210e9e99f5",
+      "sha256": "f5d14016f0f29fcfa9c46b954b7051abc79e919ae9fb4c9609acd6b6e9576384",
       "package": "org.alext.neeclassic",
-      "version_name": "1.2.2-android16.2",
-      "version_code": "40003",
+      "version_name": "1.2.2-android16.3",
+      "version_code": "40004",
       "min_sdk": "26",
       "target_sdk": "28",
       "native_abis": [],
@@ -201,7 +201,7 @@
       "app": "倪柝聲文集",
       "path": "apks/android16/WatchmanNee-Android16.apk",
       "variant": "android16",
-      "status": "candidate: real-device settings crash requires confirmation; emulator UI regression blocked by system ANR"
+      "status": "user-confirmed on 2026-10-20: Android16 chart-list scrolling works after revision3; no full device-matrix regression"
     }
   ]
 }
